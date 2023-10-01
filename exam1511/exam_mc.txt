@@ -1,0 +1,60 @@
+[COMP1511 Final Exam]
+You should edit the empty space between the curly braces.
+You should not edit anything else in this file.
+
+You can test this file conforms to the correct syntax with "1511 autotest-exam exam_mc"
+
+You should submit this file with the command "give cs1511 exam_mc exam_mc.txt"
+
+If you need a new copy of the file, move this file to a safe place,
+then run "1511 fetch-exam".
+
+q1: What would `part1_q1.c` print? (see the exam paper for details)
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q1] {{{ 1 }}}
+
+
+q2: What would `part1_q2.c` print? (see the exam paper for details)
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q2] {{{ Chicken is a senior cat. }}}
+
+
+q3: What would `part1_q3.c` print? (see the exam paper for details)
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q3] {{{ w = 3 }}}
+
+
+q4: What are the 4 values of `y` when `part1_q4.c` is run? (see the exam paper for details)
+Enter your answer as four numbers, seperated by spaces, inside the curly braces
+(extra spaces will be ignored)
+[q4] {{{ 0 1 4 9 }}}
+
+
+q5: What style issues are present in `part1_q5.c`? (see the exam paper for details)
+Enter the correct letters inside the curly braces (extra spaces will be ignored)
+[q5] {{{ AD }}}
+
+
+q6: What value will HP have, given the expression in question 6?
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q6] {{{ 2 }}}
+
+
+q7: What value will `my_number` have on line 21 of `part1_q7.c`?
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q7] {{{ 7 }}}
+
+
+q8: Which is the correct answer to question 8?
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q8] {{{ A }}}
+
+
+q9: Which is the correct struct in question 9?
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q9] {{{ B }}}
+
+
+q10: What are the values of a and b at the end of `part1_q10.c`?
+Enter your answer inside the curly braces (extra spaces will be ignored)
+[q10] {{{ 3 2 }}}
